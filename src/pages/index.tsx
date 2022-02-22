@@ -30,7 +30,7 @@ const Home: NextPage = () => {
       />
       <Button variant="primary" onClick={() => handleGoToRoom()}>Go!</Button>
       <Form.Text id="roomNameBlock" muted>
-        If your room doesn't exists, we will create automatically.
+        If your room doesn&apos;t exists, we will create automatically.
       </Form.Text>
     </Container>
   )
